@@ -1,0 +1,7 @@
+body {
+  transition: background-color 0.2s ease;
+}
+
+.colorCode {
+  font-size: 2rem;
+}
