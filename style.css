@@ -3,5 +3,5 @@ body {
 }
 
 .colorCode {
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 2vw, 2rem);
 }
